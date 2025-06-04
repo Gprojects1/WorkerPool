@@ -1,8 +1,8 @@
 # WorkerPool
 
 1. **Запуск :**
-  *  Тесты - ```bash go test -v ./worker-pool```
-  *  Пример использования в main.go ```bash go run main.go```
+  *  Тесты - ```go test -v ./worker-pool```
+  *  Пример использования в main.go ```go run main.go```
 
 2. **Реализация :**
   *  Функция добавления воркера
